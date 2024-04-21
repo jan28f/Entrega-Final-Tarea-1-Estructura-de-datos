@@ -1,4 +1,4 @@
-# Sistema de gestion
+# Sistema de gestión de atención de pacientes
 
 Este programa se encarga de gestionar la lista de espera y atencion de los pacientes en un hospital. Este usa un sistema de cola, el cual se basa en el orden de llega y de prioridad de los pacientes.
 
